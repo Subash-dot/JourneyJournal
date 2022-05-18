@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "615055579929",
+    "project_id": "journeyjournal-acbfa",
+    "storage_bucket": "journeyjournal-acbfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615055579929:android:cdcd8b67c6449b8a9f4388",
+        "android_client_info": {
+          "package_name": "com.example.journeyjournal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615055579929-7k4epbh4dtcl17vpligbrre8kje6c7ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBmd9akr611SHOWFSR6QVcV0UrXG8uw1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615055579929-7k4epbh4dtcl17vpligbrre8kje6c7ob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
