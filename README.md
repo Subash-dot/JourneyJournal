@@ -6,9 +6,9 @@ I've been tasked with developing an app to assist people chronicle their trip ex
 The prototype
 
 Core requirements of the app:
-● User registration and login.
-● Main home area of the app.
-● Create a journal entry.
-● Manage my journal entries.
-  ○ Delete entry.
-  ○ Edit entry.
+1. User registration and login.
+2. Main home area of the app.
+3. Create a journal entry.
+4. Manage my journal entries.
+   ○ Delete entry.
+   ○ Edit entry.
